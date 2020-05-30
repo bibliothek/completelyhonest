@@ -1,4 +1,5 @@
 .logo {
+    max-height: 70vh;
 }
 
 #container {
@@ -16,7 +17,11 @@
 }
 
 .social-link {
-    padding: 2em;
+    padding: 0 2em;
+}
+
+.social-link a img {
+    width: 5em;
 }
 
 .grow {
