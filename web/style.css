@@ -1,0 +1,24 @@
+.logo {
+}
+
+#container {
+    height: 100%;
+}
+
+.flex-container-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-link {
+    padding: 2em;
+}
+
+.grow {
+    flex-grow: 1;
+}
